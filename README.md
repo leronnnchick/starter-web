@@ -12,3 +12,5 @@ Sample website with plenty of files for demos
 ## Deployment
 
 ## How To Contribute 
+### copyright 
+Git chercher.tech training
